@@ -1,5 +1,4 @@
 //Aleena Siddiqui
-//501101812
 /*
  * class Product defines a product for sale by the system. 
  * 
