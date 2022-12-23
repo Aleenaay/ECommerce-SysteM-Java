@@ -1,6 +1,5 @@
 
 //Aleena Siddiqui
-//501101812
 
 /* A book IS A product that has additional information - e.g. title, author
 
