@@ -1,2 +1,3 @@
 # ECommerce-SysteM-Java
-Java project displays knowledge of Java Collections, File I/O and Exceptions, objects and classes, inheritance, and interfaces
+Java project displays knowledge of Java Collections, File I/O and Exceptions, objects and classes, inheritance, and interfaces.
+To complie run ECommerceUserInterface.java.
