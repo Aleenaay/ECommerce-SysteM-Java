@@ -1,5 +1,4 @@
 //Aleena Siddiqui
-//501101812
 public class Cart {
 	private String 		orderNumber;
 	private Customer 	customer;
