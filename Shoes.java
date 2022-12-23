@@ -1,6 +1,5 @@
 
 //Aleena Siddiqui
-//501101812
 
 /* A Shoes IS A product that has additional information - e.g. size, color
 
