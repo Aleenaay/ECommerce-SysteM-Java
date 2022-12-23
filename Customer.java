@@ -1,6 +1,5 @@
 
 //Aleena Siddiqui
-//501101812
 /*
  *  class Customer defines a registered customer. It keeps track of the customer's name and address. 
  *  A unique id is generated when when a new customer is created. 
