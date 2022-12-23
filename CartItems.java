@@ -1,5 +1,4 @@
 //Aleena Siddiqui
-//501101812
 public class CartItems {
 	private Product prods;
 	private String productOptions;
