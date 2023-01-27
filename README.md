@@ -1,3 +1,2 @@
 # ECommerce-System-Java
-Java project displays knowledge of Java Collections, File I/O and Exceptions, objects and classes, inheritance, and interfaces.
-To complie run ECommerceUserInterface.java.
+This is a Java program that simulates a simple e-commerce system, like Amazon. It uses a class called ECommerceSystem to handle various actions such as creating customers, printing products for sale, shipping orders, and more. The program uses a while loop to repeatedly process user input from the keyboard and calls various methods from the ECommerceSystem class to perform the desired actions. The program also includes try-catch blocks to handle exceptions such as invalid customer name or address, and invalid order number
